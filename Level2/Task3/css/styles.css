@@ -4,27 +4,37 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
+  height:auto ;
 }
 
-header {
-  background-color: #333;
-  color: #fff;
-  padding: 20px;
+nav {
+   display: flex;
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 4px 8px rgba(0,0,0,.3);
+    transition: background-color 0.4s;
+    padding: 15px 40px;
+    z-index: 100;
+ 
 }
-
 nav ul {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between 5px;
 }
 
 nav ul li {
   display: inline;
-  margin-right: 20px;
+  margin-right: 3rem;
+  font-size: 20px;
 }
 
 nav ul li a {
-  color: #fff;
+  color: #0d0c0c;
   text-decoration: none;
 }
 
@@ -56,21 +66,60 @@ section {
 /* Services Section */
 
 #services {
-  padding: 40px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 2rem;
+  height: auto;
+
 }
+#services h2{
+  background-color: #dce8e8;
+  padding: 3rem;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin-bottom: 4rem;
+
+}
+#services #description{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 3rem;
+
+}
+
 
 /* Contact Section */
 
 #contact {
-  background-color: #333;
+  background-color: #1197f6;
   color: #fff;
   padding: 40px;
+  height: 40rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+#contact form{
+  width: 40%;
+  
+}
+#contact form input{
+  height: 35px;
 }
 
 #contact form input,
 #contact form textarea {
   width: 100%;
   margin-bottom: 20px;
+  border: none;
 }
 
 #contact form button {
@@ -84,7 +133,7 @@ section {
 /* Footer */
 
 footer {
-  background-color: #333;
+  background-color: #fd5635;
   color: #fff;
   text-align: center;
   padding: 20px;

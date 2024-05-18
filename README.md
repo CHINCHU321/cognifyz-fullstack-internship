@@ -20,7 +20,7 @@
     3. Implement server-side validation for submitted form data.
     4. Store validated data in temporary server-side storage.
 
-# Level 2: Intermediate Where Data Meets Intelligence
+# Level 2: Intermediate
   # Task 3: Advanced CSS Styling and Responsive Design
 
   Objective: Enhance CSS styling and make the webpage fully responsive.
@@ -28,3 +28,13 @@
   1. Create a more complex layout with multiple sections.
   2. Experiment with CSS properties for advanced styling (e.g., transitions, animations).
   3. Utilize a CSS framework (e.g., Bootstrap) for a consistent and responsive UI.
+
+# Level 2: Intermediate 
+# Task 4: Complex Form Validation and Dynamic DOM Manipulation
+
+  Objective: Extend form validation and implement dynamic updates to the DOM.
+
+  Steps:
+  1.Enhance form validation to include more complex rules (e.g., password strength).
+  2.Dynamically update the DOM based on user interactions using JavaScript.
+  3.Implement client-side routing for a smoother user experience.
