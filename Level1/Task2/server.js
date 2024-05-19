@@ -20,7 +20,7 @@ app.post('/submit', (req, res) => {
         return res.status(400).send("All fields must be filled out");
     }
 
-    // Store validated data in temporary server-side storage (you can replace this with your preferred storage mechanism)
+    // Store validated data in temporary server-side storage 
     const formData = {
         name: name,
         email: email,

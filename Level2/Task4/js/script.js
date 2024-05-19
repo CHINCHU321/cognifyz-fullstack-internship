@@ -24,5 +24,3 @@ form.addEventListener('submit', function(event) {
     messages.innerHTML = 'Form submitted successfully!';
 });
 
-// Implement dynamic DOM manipulation (optional)
-// You can add event listeners to form inputs to update the DOM based on user interactions

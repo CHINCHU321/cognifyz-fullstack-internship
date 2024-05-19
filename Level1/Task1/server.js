@@ -6,12 +6,6 @@ const port = 3000;
 
 app.use(bodyParser.urlencoded({ extended: true }));
 app.set('view engine', 'ejs');
-/*
-// Render the index.ejs file
-app.get('/', (req, res) => {
-    const name = req.query.name; // Assuming 'name' is coming from a query parameter
-    res.render('index', { name: name });
-});*/
 
 app.get('/', (req, res) => {
     res.sendFile(__dirname + '/index.html');
@@ -23,8 +17,6 @@ app.post('/submit', (req, res) => {
     res.render('index', { name });
     
 });
-
-
 
 app.listen(port, () => {
     console.log(`Server running at http://localhost:${port}`);
