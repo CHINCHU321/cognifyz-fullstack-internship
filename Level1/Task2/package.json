@@ -8,7 +8,7 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Chinchu",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.10",
