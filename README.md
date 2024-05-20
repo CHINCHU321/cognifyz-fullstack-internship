@@ -38,3 +38,42 @@
   1.Enhance form validation to include more complex rules (e.g., password strength).
   2.Dynamically update the DOM based on user interactions using JavaScript.
   3.Implement client-side routing for a smoother user experience.
+
+  # cognifyz-fullstack-internship
+ 
+# Level 3: Advanced 
+  # Task 5: API Integration and Front-End Interaction
+
+    Objective: Introduce server-client communication through a RESTful API.
+
+    Steps:
+
+    1.Create RESTful API endpoints on the server for handling CRUD operations.
+
+    2.Develop a front-end interface that interacts with your own server API.
+
+    3.Fetch and display data from your API on the front end.
+-------------------------------------------------
+
+
+  # My Project
+
+## Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/CHINCHU321/cognifyz-fullstack-internship.git
+  
+   cd level3/task5/front-end-side
+
+2. Install the dependencies:
+
+    npm install express body-parser cors
+
+3. Run the project:
+
+    npm start
+    # or
+    yarn start
+
+4.
