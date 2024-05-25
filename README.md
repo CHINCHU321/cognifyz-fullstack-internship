@@ -62,7 +62,6 @@
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/CHINCHU321/cognifyz-fullstack-internship.git
   
    cd level3/task5/front-end-side
 
@@ -73,7 +72,6 @@
 3. Run the project:
 
     npm start
-    # or
-    yarn start
+    
 
 4.
