@@ -11,11 +11,13 @@
    
    2. Install the dependencies:
    
-       npm install express body-parser cors
+      ```sh
+      npm install express body-parser cors
    
    3. Run the project:
-   
-       npm start
+     
+        ```sh
+            npm start
       
 # Level 1: Beginner 
   # Task 1: HTML Structure and Basic Server Interaction
