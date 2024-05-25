@@ -29,6 +29,16 @@ HOW TO RUN THE PROJECT
 2. LEVEL1/TASK2
 
       ```sh 
+      node server.js
+      or npm start
+3. LEVEL2/TASK3
+
+      ```sh  
+      
+      Right-click on the HTML file in the Explorer or in the editor itself and select "Open with Live Server
+
+3. LEVEL2/TASK4
+
 
 
   -------------------------------------------------
