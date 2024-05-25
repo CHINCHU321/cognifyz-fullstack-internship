@@ -1,5 +1,6 @@
 # cognifyz-fullstack-internship
- 
+ please read  this till end
+
   # My Project
 
    ## Installation
@@ -14,11 +15,23 @@
       ```sh
       npm install express body-parser cors
    
-   3. Run the project:
+      3. Run the project:
      
         ```sh
             npm start
-      -------------------------------------------------
+  -------------------------------------------------
+HOW TO RUN THE PROJECT
+1. LEVEL1/TASK1
+    
+      ```sh 
+      node server.js
+      or npm start
+2. LEVEL1/TASK2
+
+      ```sh 
+
+
+  -------------------------------------------------
 
 # Level 1: Beginner 
   # Task 1: HTML Structure and Basic Server Interaction
