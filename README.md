@@ -47,7 +47,7 @@ HOW TO RUN THE PROJECT
        npm start
 
   -------------------------------------------------
-
+Project details
 # Level 1: Beginner 
   # Task 1: HTML Structure and Basic Server Interaction
 
@@ -87,7 +87,6 @@ HOW TO RUN THE PROJECT
   2.Dynamically update the DOM based on user interactions using JavaScript.
   3.Implement client-side routing for a smoother user experience.
 
-  # cognifyz-fullstack-internship
  
 # Level 3: Advanced 
   # Task 5: API Integration and Front-End Interaction
