@@ -18,7 +18,8 @@
      
         ```sh
             npm start
-      
+      -------------------------------------------------
+
 # Level 1: Beginner 
   # Task 1: HTML Structure and Basic Server Interaction
 
@@ -72,6 +73,5 @@
     2.Develop a front-end interface that interacts with your own server API.
 
     3.Fetch and display data from your API on the front end.
--------------------------------------------------
 
   
