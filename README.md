@@ -1,5 +1,22 @@
 # cognifyz-fullstack-internship
  
+  # My Project
+
+   ## Installation
+   
+   1. if level3/task5/front-end-side has no node modules, you can install it 
+      ```sh
+     
+      cd level3/task5/front-end-side
+   
+   2. Install the dependencies:
+   
+       npm install express body-parser cors
+   
+   3. Run the project:
+   
+       npm start
+      
 # Level 1: Beginner 
   # Task 1: HTML Structure and Basic Server Interaction
 
@@ -55,23 +72,4 @@
     3.Fetch and display data from your API on the front end.
 -------------------------------------------------
 
-
-  # My Project
-
-## Installation
-
-1. Clone the repository:
-   ```sh
   
-   cd level3/task5/front-end-side
-
-2. Install the dependencies:
-
-    npm install express body-parser cors
-
-3. Run the project:
-
-    npm start
-    
-
-4.
