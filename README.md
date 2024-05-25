@@ -9,37 +9,42 @@
       ```sh
      
       cd level3/task5/front-end-side
+      npm install express body-parser cors
+
    
    2. Install the dependencies:
-   
-      ```sh
-      npm install express body-parser cors
-   
-      3. Run the project:
-     
-        ```sh
-            npm start
-  -------------------------------------------------
-HOW TO RUN THE PROJECT
-1. LEVEL1/TASK1
+
+       ```sh
+       npm install express body-parser cors
     
-      ```sh 
-      node server.js
-      or npm start
-2. LEVEL1/TASK2
+   -------------------------------------------------
+HOW TO RUN THE PROJECT
+1. LEVEL1/TASK1/
 
-      ```sh 
-      node server.js
-      or npm start
-3. LEVEL2/TASK3
+       cd level1/task1
+       node server.js
+2. LEVEL1/TASK2/
 
-      ```sh  
+       cd level1/task2
+       node server.js
+3. LEVEL2/TASK3/
+
+       cd level2/task3
+    Right-click on the HTML file in the Explorer or in the editor itself and select "Open with Live Server
+
+5. LEVEL2/TASK4/
+
+       cd level2/task4
+
+   Right-click on the HTML file in the Explorer or in the editor itself and select "Open with Live Server
+  
+5. LEVEL3/TASK5/
+
+       node server.js
       
-      Right-click on the HTML file in the Explorer or in the editor itself and select "Open with Live Server
-
-3. LEVEL2/TASK4
-
-
+    LEVEL3/TASK5/Front-end-side
+   
+       npm start
 
   -------------------------------------------------
 
